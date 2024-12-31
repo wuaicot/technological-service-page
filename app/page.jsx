@@ -1,15 +1,14 @@
-//prob
-import HeroSection from '../app/components/HomePage/HeroSection.jsx';
-import SliderTaglines from '../app/components/HomePage/SliderTaglines.jsx';
-import BrandSection from '../app/components/HomePage/BrandSection.jsx';
-import ReputationSection from '../app/components/HomePage/ReputationSection.jsx';
-import PlatformSection from '../app/components/HomePage/PlatformSection.jsx';
-import EducationSection from '../app/components/HomePage/EducationSection.jsx';
-import ContactSection from '../app/components/HomePage/ContactSection.jsx';
+import HeroSection from './components/HomePage/HeroSection.jsx';
+import SliderTaglines from './components/HomePage/SliderTaglines.jsx';
+import BrandSection from './components/HomePage/BrandSection.jsx';
+import ReputationSection from './components/HomePage/ReputationSection.jsx';
+import PlatformSection from './components/HomePage/PlatformSection.jsx';
+import EducationSection from './components/HomePage/EducationSection.jsx';
+import ContactSection from './components/HomePage/ContactSection.jsx';
 
-import WhoAreWe from '../app/components/About/WhoAreWe.jsx';
-import VisionMission from '../app/components/About/VisionMission.jsx';
-import Principles from '../app/components/About/Principles.jsx';
+import WhoAreWe from './components/About/WhoAreWe.jsx';
+import VisionMission from './components/About/VisionMission.jsx'; 
+import Principles from './components/About/Principles.jsx';
 
 export default function HomePage() {
   return (
