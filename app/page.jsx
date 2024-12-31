@@ -2,7 +2,7 @@ import HeroSection from './components/HomePage/HeroSection';
 import SliderTaglines from './components/HomePage/SliderTaglines';
 import BrandSection from './components/HomePage/BrandSection';
 import ReputationSection from './components/HomePage/ReputationSection';
-import PlatformSection from './components/HomePage/PlatformSection';
+import PlatformSection from './components/HomePage/PlatformSection.jsx';
 import EducationSection from './components/HomePage/EducationSection';
 import ContactSection from './components/HomePage/ContactSection';
 
