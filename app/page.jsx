@@ -1,4 +1,4 @@
-import HeroSection from '../app/components/HomePage/HeroSection';
+import HeroSection from '../../components/HomePage/HeroSection';
 import SliderTaglines from './components/HomePage/SliderTaglines';
 import BrandSection from './components/HomePage/BrandSection';
 import ReputationSection from './components/HomePage/ReputationSection';
