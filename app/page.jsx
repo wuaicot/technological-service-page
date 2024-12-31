@@ -1,14 +1,14 @@
-import HeroSection from '../../components/HomePage/HeroSection';
-import SliderTaglines from './components/HomePage/SliderTaglines';
-import BrandSection from './components/HomePage/BrandSection';
-import ReputationSection from './components/HomePage/ReputationSection';
+import HeroSection from './components/HomePage/HeroSection.jsx';
+import SliderTaglines from './components/HomePage/SliderTaglines.jsx';
+import BrandSection from './components/HomePage/BrandSection.jsx';
+import ReputationSection from './components/HomePage/ReputationSection.jsx';
 import PlatformSection from './components/HomePage/PlatformSection.jsx';
-import EducationSection from './components/HomePage/EducationSection';
-import ContactSection from './components/HomePage/ContactSection';
+import EducationSection from './components/HomePage/EducationSection.jsx';
+import ContactSection from './components/HomePage/ContactSection.jsx';
 
-import WhoAreWe from './components/About/WhoAreWe';
-import VisionMission from './components/About/VisionMission';
-import Principles from './components/About/Principles';
+import WhoAreWe from './components/About/WhoAreWe.jsx';
+import VisionMission from './components/About/VisionMission.jsx';
+import Principles from './components/About/Principles.jsx';
 
 export default function HomePage() {
   return (
